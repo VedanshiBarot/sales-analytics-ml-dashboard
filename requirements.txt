@@ -1,15 +1,12 @@
-<<<<<<< HEAD
 streamlit
 pandas
 joblib
 sqlalchemy
 plotly
 supabase
-=======
 streamlit
 pandas
 joblib
 sqlalchemy
 plotly
 supabase
->>>>>>> 2cdfb548cb20557bbbd4df3e2c7b341d7cfd2848
