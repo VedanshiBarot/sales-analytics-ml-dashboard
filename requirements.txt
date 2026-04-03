@@ -4,9 +4,3 @@ joblib
 sqlalchemy
 plotly
 supabase
-streamlit
-pandas
-joblib
-sqlalchemy
-plotly
-supabase
